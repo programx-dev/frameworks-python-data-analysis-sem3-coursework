@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nНа мои размеры ОГ 103, ОТ 78 и ОБ 96 платье село отлично.\n\nДостоинства:\nОчень лёгкое, приятное к телу. Немного просвечивается, но не критично. После стирки не деформировалось.",
+      "source_review_id": 18641,
+      "source_product_id": 4873,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0111"
+    }
+  }
+]

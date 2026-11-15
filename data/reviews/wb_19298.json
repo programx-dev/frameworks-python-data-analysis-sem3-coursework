@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nБотинки хорошие, очень понравились. Аккуратные, теплые. Взяли 39 размер, чтоб с носками и колготочками. Сидят отлично😀 Красивые, и с платьем и со штанами будет супер. Советуем👍",
+      "source_review_id": 19298,
+      "source_product_id": 5013,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-15",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0132"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nОтличное платье на каждый день, подчёркивает все достоинства, сидит хорошо, идёт в размер, тянется немного, но лучше брать в размер, расцветка яркая как на фото карточки",
+      "source_review_id": 18650,
+      "source_product_id": 4875,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0117"
+    }
+  }
+]

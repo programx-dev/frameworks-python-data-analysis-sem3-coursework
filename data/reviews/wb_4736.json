@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nПлатье классное. Село хорошо. Поленилась снимать штаны при примерке. Дома поняла что на мой рост 172 см, оно короткое, но исправила - пришила 11 см кружево и всё ОК.",
+      "source_review_id": 4736,
+      "source_product_id": 989,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0008"
+    }
+  }
+]

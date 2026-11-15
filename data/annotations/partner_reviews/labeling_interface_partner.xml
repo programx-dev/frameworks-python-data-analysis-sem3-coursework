@@ -1,0 +1,8 @@
+<View>
+  <Text name="review" value="$text"/>
+  <Choices name="sentiment" toName="review" choice="single" required="true">
+    <Choice value="positive"/>
+    <Choice value="neutral"/>
+    <Choice value="negative"/>
+  </Choices>
+</View>

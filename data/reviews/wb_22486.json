@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nОдноразовое платье,пару раз одела до стирки,после стирки ,вид очень плохой ,материал и цвет тоже все не то.Очень жаль фасон хороший,но только фасон.",
+      "source_review_id": 22486,
+      "source_product_id": 5827,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-15",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0146"
+    }
+  }
+]

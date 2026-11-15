@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nОчень понравилось платье, цвет глубокий, именно винный, как и хотела, а не красный. Шовчики все ровные, по длине - самое то. Прекрасно тянется, на свой размер 44-46 село великолепно\n\nДостоинства:\nВсе",
+      "source_review_id": 5076,
+      "source_product_id": 1088,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0064"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nПлатье хорошее, но для тех, кто любит сильный оверсайз (по крайней мере на мой 42 размер). На мне горловина, проймы в рукавах стоят колом, грубо говоря, в 2 раза уменьшить платье это всё равно был бы оверсайз.",
+      "source_review_id": 18609,
+      "source_product_id": 4862,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0090"
+    }
+  }
+]

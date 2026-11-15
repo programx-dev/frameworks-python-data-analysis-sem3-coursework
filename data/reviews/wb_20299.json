@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nОчень красивое платье. Тонкая легкая ткань , очень приятная к телу. Сидит хорошо. Швы хорошие . Все по размеру . Рекомендую",
+      "source_review_id": 20299,
+      "source_product_id": 5234,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-15",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0139"
+    }
+  }
+]

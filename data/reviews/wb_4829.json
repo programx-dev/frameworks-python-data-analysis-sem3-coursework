@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nПлатье отличное! Заказала 2 разных фасона в одном цвете, предпочтение отдала другому платью... Но такое обязательно закажу в другом цвете. Рекомендую однозначно!",
+      "source_review_id": 4829,
+      "source_product_id": 1016,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0023"
+    }
+  }
+]

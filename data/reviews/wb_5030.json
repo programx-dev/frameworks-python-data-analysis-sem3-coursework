@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nОтвратительное платье, надевала 3 раза и сбоку пошло по швам(низ платья), после стирки село, обидно, ещё и выкупила его за 2800, его цена 1500руб",
+      "source_review_id": 5030,
+      "source_product_id": 1074,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0056"
+    }
+  }
+]

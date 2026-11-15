@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nПлатье пришло бракованное, а я его очень ждала, даже не померила тк нельзя забирать бракованный товар в примерочную, я очень расстроилась.",
+      "source_review_id": 20328,
+      "source_product_id": 5240,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-15",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0141"
+    }
+  }
+]
