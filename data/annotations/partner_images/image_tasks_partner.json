@@ -1,0 +1,1135 @@
+[
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0001.jpg",
+      "sample_id": 1,
+      "file_name": "IMG0001.jpg",
+      "display_name": "sample_id: 1 | IMG0001.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:RedHawks2.jpg",
+      "author": "EceUzundemir",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG002.jpg",
+      "sample_id": 2,
+      "file_name": "IMG002.jpg",
+      "display_name": "sample_id: 2 | IMG002.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Serafimovichski_District._2004_08.jpg",
+      "author": "Redboston",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/3840px-Starr-130921-2266-Lehua-aboard_Kahana_boat-Niihau_%2825108789612%29.jpg",
+      "sample_id": 3,
+      "file_name": "3840px-Starr-130921-2266-Lehua-aboard_Kahana_boat-Niihau_(25108789612).jpg",
+      "display_name": "sample_id: 3 | 3840px-Starr-130921-2266-Lehua-aboard_Kahana_boat-Niihau_(25108789612).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Starr-130921-2266-Lehua-aboard_Kahana_boat-Niihau_(25108789612).jpg",
+      "author": "Forest and Kim Starr",
+      "license": "Creative Commons Attribution 3.0 United States"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Istanbul_PB096580raw_%284119541790%29.jpg",
+      "sample_id": 4,
+      "file_name": "Istanbul_PB096580raw_(4119541790).jpg",
+      "display_name": "sample_id: 4 | Istanbul_PB096580raw_(4119541790).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Istanbul_PB096580raw_(4119541790).jpg",
+      "author": "Javier Losa",
+      "license": "Creative Commons Attribution 2.0 Generic"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Max_Ostrozhinskiy_2017_%28Unsplash%29.jpg",
+      "sample_id": 5,
+      "file_name": "Max_Ostrozhinskiy_2017_(Unsplash).jpg",
+      "display_name": "sample_id: 5 | Max_Ostrozhinskiy_2017_(Unsplash).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Max_Ostrozhinskiy_2017_(Unsplash).jpg",
+      "author": "Max Ostrozhinskiy maxon",
+      "license": "Creative Commons CC0 1.0 Universal Public Domain Dedication"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Mole_National_Park%2C_West_Gonja_%28P1100412%29.jpg",
+      "sample_id": 6,
+      "file_name": "Mole_National_Park,_West_Gonja_(P1100412).jpg",
+      "display_name": "sample_id: 6 | Mole_National_Park,_West_Gonja_(P1100412).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mole_National_Park,_West_Gonja_(P1100412).jpg",
+      "author": "Matti Blume",
+      "license": "Creative Commons Attribution ShareAlike license, versions 2.0, 2.5, 3.0, 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Flamingo_Sunset.jpg",
+      "sample_id": 7,
+      "file_name": "Flamingo_Sunset.jpg",
+      "display_name": "sample_id: 7 | Flamingo_Sunset.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:1_bird_in_flight_%28distant_views%29#/media/File:Flamingo_Sunset.jpg",
+      "author": "İsmail Özyurt",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/1920px-Common_crane_-_Pulken_%2826751450752%29.jpg",
+      "sample_id": 8,
+      "file_name": "1920px-Common_crane_-_Pulken_(26751450752).jpg",
+      "display_name": "sample_id: 8 | 1920px-Common_crane_-_Pulken_(26751450752).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:2_birds_in_flight#/media/File:Common_crane_-_Pulken_(26751450752).jpg",
+      "author": "Susanne Nilsson - Cranes flying at sunrise",
+      "license": "CC BY-SA 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/1920px-%D0%97%D0%B5%D0%BD%D0%B8%D1%86%D0%B0_20230224_165023.jpg",
+      "sample_id": 9,
+      "file_name": "1920px-Зеница_20230224_165023.jpg",
+      "display_name": "sample_id: 9 | 1920px-Зеница_20230224_165023.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:2_birds_in_flight#/media/File:%D0%97%D0%B5%D0%BD%D0%B8%D1%86%D0%B0_20230224_165023.jpg",
+      "author": "Ioacc1234red",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/%D7%A4%D7%90%D7%A8%D7%A7_%D7%94%D7%9B%D7%A8%D7%9E%D7%9C_5_-_%D7%92%D7%A0%D7%99%D7%9D_%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%99%D7%9D_%D7%91%D7%A6%D7%A4%D7%95%D7%9F_%D7%94%D7%90%D7%A8%D7%A5_-_%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA_2016_%2853%29.jpg",
+      "sample_id": 10,
+      "file_name": "פארק_הכרמל_5_-_גנים_לאומיים_בצפון_הארץ_-_אתרי_מורשת_2016_(53).jpg",
+      "display_name": "sample_id: 10 | פארק_הכרמל_5_-_גנים_לאומיים_בצפון_הארץ_-_אתרי_מורשת_2016_(53).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:2_birds_in_flight#/media/File:%D7%A4%D7%90%D7%A8%D7%A7_%D7%94%D7%9B%D7%A8%D7%9E%D7%9C_5_-_%D7%92%D7%A0%D7%99%D7%9D_%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%99%D7%9D_%D7%91%D7%A6%D7%A4%D7%95%D7%9F_%D7%94%D7%90%D7%A8%D7%A5_-_%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA_2016_(53).jpg",
+      "author": "Chenspec",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/365cloud.jpg",
+      "sample_id": 11,
+      "file_name": "365cloud.jpg",
+      "display_name": "sample_id: 11 | 365cloud.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:365cloud.JPG",
+      "author": "YAHWEH",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/ADAC_Deutschland_Klassik_2025%2C_Heddesheim_%28P1048657%29.jpg",
+      "sample_id": 12,
+      "file_name": "ADAC_Deutschland_Klassik_2025,_Heddesheim_(P1048657).jpg",
+      "display_name": "sample_id: 12 | ADAC_Deutschland_Klassik_2025,_Heddesheim_(P1048657).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:ADAC_Deutschland_Klassik_2025,_Heddesheim_(P1048657).jpg",
+      "author": "Matti Blume",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Amasra_108.jpg",
+      "sample_id": 13,
+      "file_name": "Amasra_108.jpg",
+      "display_name": "sample_id: 13 | Amasra_108.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:Amasra_108.JPG",
+      "author": "Vikiçizer",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Amasra_109.jpg",
+      "sample_id": 14,
+      "file_name": "Amasra_109.jpg",
+      "display_name": "sample_id: 14 | Amasra_109.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:Amasra_109.JPG",
+      "author": "Vikiçizer",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Begin_the_journey.jpg",
+      "sample_id": 15,
+      "file_name": "Begin_the_journey.jpg",
+      "display_name": "sample_id: 15 | Begin_the_journey.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:Begin_the_journey.jpg",
+      "author": "Nikhil More",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Bird_flying_2.jpg",
+      "sample_id": 16,
+      "file_name": "Bird_flying_2.jpg",
+      "display_name": "sample_id: 16 | Bird_flying_2.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:Bird_flying_2.jpg",
+      "author": "மாலதி. மு",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Birds_of_prey_against_the_sky%2C_Ehrenbach.jpg",
+      "sample_id": 17,
+      "file_name": "Birds_of_prey_against_the_sky,_Ehrenbach.jpg",
+      "display_name": "sample_id: 17 | Birds_of_prey_against_the_sky,_Ehrenbach.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:Birds_of_prey_against_the_sky,_Ehrenbach.jpg",
+      "author": "Gerda Arendt",
+      "license": "CC0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/BP726_Rainbow_Modified_-_Flickr_-_listentoreason.jpg",
+      "sample_id": 18,
+      "file_name": "BP726_Rainbow_Modified_-_Flickr_-_listentoreason.jpg",
+      "display_name": "sample_id: 18 | BP726_Rainbow_Modified_-_Flickr_-_listentoreason.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:BP726_Rainbow_Modified_-_Flickr_-_listentoreason.jpg",
+      "author": "Charles Tilford from USA - BP726 Rainbow Modified",
+      "license": "CC BY-SA 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Buteo_lagopus_%283590685304%29.jpg",
+      "sample_id": 19,
+      "file_name": "Buteo_lagopus_(3590685304).jpg",
+      "display_name": "sample_id: 19 | Buteo_lagopus_(3590685304).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:Buteo_lagopus_(3590685304).jpg",
+      "author": "peupleloup - Buteo lagopus",
+      "license": "CC BY-SA 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Clouds_and_birds_at_Jekyll_Island%2C_GA_%2818821290091%29.jpg",
+      "sample_id": 20,
+      "file_name": "Clouds_and_birds_at_Jekyll_Island,_GA_(18821290091).jpg",
+      "display_name": "sample_id: 20 | Clouds_and_birds_at_Jekyll_Island,_GA_(18821290091).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:Clouds_and_birds_at_Jekyll_Island,_GA_(18821290091).jpg",
+      "author": "photochem_PA from State College, PA, USA - Clouds and birds at Jekyll Island, GA",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Ehrenbach%2C_grey_heron_in_flight_against_clouds.jpg",
+      "sample_id": 21,
+      "file_name": "Ehrenbach,_grey_heron_in_flight_against_clouds.jpg",
+      "display_name": "sample_id: 21 | Ehrenbach,_grey_heron_in_flight_against_clouds.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:Ehrenbach,_grey_heron_in_flight_against_clouds.jpg",
+      "author": "Gerda Arendt - Own work",
+      "license": "CC0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Flight_Over_the_Himalayas.jpg",
+      "sample_id": 22,
+      "file_name": "Flight_Over_the_Himalayas.jpg",
+      "display_name": "sample_id: 22 | Flight_Over_the_Himalayas.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:Flight_Over_the_Himalayas.jpg",
+      "author": "Nishant Sharma Parajuli - Own work",
+      "license": "CC0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Flying_%285536678903%29.jpg",
+      "sample_id": 23,
+      "file_name": "Flying_(5536678903).jpg",
+      "display_name": "sample_id: 23 | Flying_(5536678903).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:Flying_(5536678903).jpg",
+      "author": "Candace Nast from Windsor, Candace - flying",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Free_Blackbird_Sky_Creative_Commons_%283067400697%29.jpg",
+      "sample_id": 24,
+      "file_name": "Free_Blackbird_Sky_Creative_Commons_(3067400697).jpg",
+      "display_name": "sample_id: 24 | Free_Blackbird_Sky_Creative_Commons_(3067400697).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Birds_in_flight#/media/File:Free_Blackbird_Sky_Creative_Commons_(3067400697).jpg",
+      "author": "Photographer, D. Sharon Pruitt, Owner of Pink Sherbet Photography with Official Website www.pinksherbet.com. Contact Email, pink@pinksherbet.com. On Flicker: Pink Sherbet Photography from USA. - Free Blackbird Sky Creative Commons",
+      "license": "CC BY 2.0view terms"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Red-tailed_hawk_%2825614157584%29.jpg",
+      "sample_id": 25,
+      "file_name": "Red-tailed_hawk_(25614157584).jpg",
+      "display_name": "sample_id: 25 | Red-tailed_hawk_(25614157584).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Buteo_jamaicensis_in_flight_%28distant_views%29#/media/File:Red-tailed_hawk_(25614157584).jpg",
+      "author": "Melissa McMasters from Memphis, TN, United States - Red-tailed hawk",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Territorialkessies.jpg",
+      "sample_id": 26,
+      "file_name": "Territorialkessies.jpg",
+      "display_name": "sample_id: 26 | Territorialkessies.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Buteo_jamaicensis_in_flight_%28distant_views%29#/media/File:Territorialkessies.png",
+      "author": "Beth Fortner - Own work",
+      "license": "CC BY 3.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Bird_near_to_Palomar_Observatory_2.jpg",
+      "sample_id": 27,
+      "file_name": "Bird_near_to_Palomar_Observatory_2.jpg",
+      "display_name": "sample_id: 27 | Bird_near_to_Palomar_Observatory_2.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Buteo_jamaicensis_in_flight_%28distant_views%29#/media/File:Bird_near_to_Palomar_Observatory_2.jpg",
+      "author": "Photograph by Mike Peel (www.mikepeel.net).",
+      "license": "CC BY-SA 4.0view terms"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Don_Valley_Brick_Works_Park_%286584163075%29.jpg",
+      "sample_id": 28,
+      "file_name": "Don_Valley_Brick_Works_Park_(6584163075).jpg",
+      "display_name": "sample_id: 28 | Don_Valley_Brick_Works_Park_(6584163075).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Buteo_jamaicensis_in_flight_%28distant_views%29#/media/File:Don_Valley_Brick_Works_Park_(6584163075).jpg",
+      "author": "Vlad Litvinov from Toronto - Don Valley Brick Works Park",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Flickr_-_USCapitol_-_Hawk_Above_Capitol_Grounds.jpg",
+      "sample_id": 29,
+      "file_name": "Flickr_-_USCapitol_-_Hawk_Above_Capitol_Grounds.jpg",
+      "display_name": "sample_id: 29 | Flickr_-_USCapitol_-_Hawk_Above_Capitol_Grounds.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Buteo_jamaicensis_in_flight_%28distant_views%29#/media/File:Flickr_-_USCapitol_-_Hawk_Above_Capitol_Grounds.jpg",
+      "author": "USCapitol - Hawk Above Capitol Grounds",
+      "license": "Public Domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Flickr_-_USCapitol_-_Hawk_in_Profile_over_Capitol.jpg",
+      "sample_id": 30,
+      "file_name": "Flickr_-_USCapitol_-_Hawk_in_Profile_over_Capitol.jpg",
+      "display_name": "sample_id: 30 | Flickr_-_USCapitol_-_Hawk_in_Profile_over_Capitol.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Buteo_jamaicensis_in_flight_%28distant_views%29#/media/File:Flickr_-_USCapitol_-_Hawk_in_Profile_over_Capitol.jpg",
+      "author": "USCapitol - Hawk in Profile over Capitol",
+      "license": "Public Domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Hawk_flying_above_a_Crape_Myrtle.jpg",
+      "sample_id": 31,
+      "file_name": "Hawk_flying_above_a_Crape_Myrtle.jpg",
+      "display_name": "sample_id: 31 | Hawk_flying_above_a_Crape_Myrtle.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Buteo_jamaicensis_in_flight_%28distant_views%29#/media/File:Hawk_flying_above_a_Crape_Myrtle.jpg",
+      "author": "0921369cookie - Own work",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Hawk001.jpg",
+      "sample_id": 32,
+      "file_name": "Hawk001.jpg",
+      "display_name": "sample_id: 32 | Hawk001.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Buteo_jamaicensis_in_flight_%28distant_views%29#/media/File:Hawk001.jpg",
+      "author": "Lsi john - Own work",
+      "license": "Public Domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Hawk003.jpg",
+      "sample_id": 33,
+      "file_name": "Hawk003.jpg",
+      "display_name": "sample_id: 33 | Hawk003.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Buteo_jamaicensis_in_flight_%28distant_views%29#/media/File:Hawk003.jpg",
+      "author": "Lsi john - Own work",
+      "license": "Public Domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Highway2Olinala029.jpg",
+      "sample_id": 34,
+      "file_name": "Highway2Olinala029.jpg",
+      "display_name": "sample_id: 34 | Highway2Olinala029.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Buteo_jamaicensis_in_flight_%28distant_views%29#/media/File:Highway2Olinala029.jpg",
+      "author": "AlejandroLinaresGarcia - Own work",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/Red-tailed_hawk_%2834681213713%29.jpg",
+      "sample_id": 35,
+      "file_name": "Red-tailed_hawk_(34681213713).jpg",
+      "display_name": "sample_id: 35 | Red-tailed_hawk_(34681213713).jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Buteo_jamaicensis_in_flight_%28distant_views%29#/media/File:Red-tailed_hawk_(34681213713).jpg",
+      "author": "Melissa McMasters from Memphis, TN, United States - Red-tailed hawk",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/The_Sky_and_The_Sun.jpg",
+      "sample_id": 36,
+      "file_name": "The_Sky_and_The_Sun.jpg",
+      "display_name": "sample_id: 36 | The_Sky_and_The_Sun.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Buteo_jamaicensis_in_flight_%28distant_views%29#/media/File:The_Sky_and_The_Sun.jpg",
+      "author": "Kong of Lasers - Own work",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0037.jpg",
+      "sample_id": 37,
+      "file_name": "IMG0037.jpg",
+      "display_name": "sample_id: 37 | IMG0037.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Red-tailed_hawk_(39416398371).jpg",
+      "author": "Melissa McMasters",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0038.jpg",
+      "sample_id": 38,
+      "file_name": "IMG0038.jpg",
+      "display_name": "sample_id: 38 | IMG0038.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:0100_redtail_flight_munsel_ODFW_(4420317357).jpg",
+      "author": "Oregon Department of Fish & Wildlife",
+      "license": "CC BY-SA 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0039.jpg",
+      "sample_id": 39,
+      "file_name": "IMG0039.jpg",
+      "display_name": "sample_id: 39 | IMG0039.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bird_of_prey_over_Orcas.JPG",
+      "author": "Ciar",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0040.jpg",
+      "sample_id": 40,
+      "file_name": "IMG0040.jpg",
+      "display_name": "sample_id: 40 | IMG0040.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Buteo_jamaicensis_(29754269032).jpg",
+      "author": "Donald Hobern",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0041.jpg",
+      "sample_id": 41,
+      "file_name": "IMG0041.jpg",
+      "display_name": "sample_id: 41 | IMG0041.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Buteo_jamaicensis,_Mason_Neck_State_Park,_VA.jpg",
+      "author": "Virginia State Parks staff",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0042.jpg",
+      "sample_id": 42,
+      "file_name": "IMG0042.jpg",
+      "display_name": "sample_id: 42 | IMG0042.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Buteo_jamaicensis,_San_Carlos,_Sonora,_Mexico.jpg",
+      "author": "Tomascastelazo",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0043.jpg",
+      "sample_id": 43,
+      "file_name": "IMG0043.jpg",
+      "display_name": "sample_id: 43 | IMG0043.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hawk_In_Eastwood,_Ky_(3922711909).jpg",
+      "author": "Heather Moreton",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0044.jpg",
+      "sample_id": 44,
+      "file_name": "IMG0044.jpg",
+      "display_name": "sample_id: 44 | IMG0044.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:HAWK,_RED-TAILED_(1-14-10)_dark-phase,_carrizo_plain,_slo_co,_ca_.03_(4275891930).jpg",
+      "author": "ALAN SCHMIERER",
+      "license": "CC0 1.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0045.jpg",
+      "sample_id": 45,
+      "file_name": "IMG0045.jpg",
+      "display_name": "sample_id: 45 | IMG0045.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Red-tailed_hawk_(24908813971).jpg",
+      "author": "Melissa McMasters",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0046.jpg",
+      "sample_id": 46,
+      "file_name": "IMG0046.jpg",
+      "display_name": "sample_id: 46 | IMG0046.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Red-tailed_hawk_(28108952763).jpg",
+      "author": "Melissa McMasters",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0047.jpg",
+      "sample_id": 47,
+      "file_name": "IMG0047.jpg",
+      "display_name": "sample_id: 47 | IMG0047.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Red-tailed_hawk_(34241758661).jpg",
+      "author": "Melissa McMasters",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0048.jpg",
+      "sample_id": 48,
+      "file_name": "IMG0048.jpg",
+      "display_name": "sample_id: 48 | IMG0048.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Red-tailed_hawk_(38017917364).jpg",
+      "author": "Melissa McMasters",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0049.jpg",
+      "sample_id": 49,
+      "file_name": "IMG0049.jpg",
+      "display_name": "sample_id: 49 | IMG0049.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Red-tailed_Hawk_(Buteo_jamaicensis)_-_London,_Ontario.jpg",
+      "author": "Ryan Hodnett",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/IMG0050.jpg",
+      "sample_id": 50,
+      "file_name": "IMG0050.jpg",
+      "display_name": "sample_id: 50 | IMG0050.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Red-tailed_Hawk,_Circle-X_Ranch,_Texas_(19047886184).jpg",
+      "author": "National Park Service",
+      "license": "Public domain (PD-US-NPS)"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/Drone_flying.jpg",
+      "sample_id": 51,
+      "file_name": "Drone_flying.jpg",
+      "display_name": "sample_id: 51 | Drone_flying.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Drone_flying.jpg",
+      "author": "Ibnali1",
+      "license": "Creative Commons Attribution-Share Alike 4.0 International"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/Ufo_fuerteventura.jpg",
+      "sample_id": 52,
+      "file_name": "Ufo_fuerteventura.jpg",
+      "display_name": "sample_id: 52 | Ufo_fuerteventura.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:DJI_Phantom#/media/File:Ufo_fuerteventura.JPG",
+      "author": "Markoz - eig. foto",
+      "license": "Copyrighted free use"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/Papparazziterror.jpg",
+      "sample_id": 53,
+      "file_name": "Papparazziterror.jpg",
+      "display_name": "sample_id: 53 | Papparazziterror.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:DJI_Phantom#/media/File:Papparazziterror.JPG",
+      "author": "Markoz - eig. Foto Fuerteventura",
+      "license": "Copyrighted free use"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/Lete%C4%87a_kamera.jpg",
+      "sample_id": 54,
+      "file_name": "Leteća_kamera.jpg",
+      "display_name": "sample_id: 54 | Leteća_kamera.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Radio-controlled_model_quadrotors#/media/File:Lete%C4%87a_kamera.JPG",
+      "author": "August Dominus - Own work",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_001.jpg",
+      "sample_id": 55,
+      "file_name": "IMG_DRONE_001.jpg",
+      "display_name": "sample_id: 55 | IMG_DRONE_001.jpg",
+      "source_url": "https://commons.wikimedia.org/?curid=158000737",
+      "author": "U.S. Army 105MPAD by Capt. Thomas McCarty",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_002.jpg",
+      "sample_id": 56,
+      "file_name": "IMG_DRONE_002.jpg",
+      "display_name": "sample_id: 56 | IMG_DRONE_002.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2d_Cavalry_Regiment_conducts_drone_flight_familiarization_during_Saber_Strike_in_Poland_(9657385).jpg",
+      "author": "U.S. Army Reserve photo by Staff Sgt. Emilie Lenglain",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_003.jpg",
+      "sample_id": 57,
+      "file_name": "IMG_DRONE_003.jpg",
+      "display_name": "sample_id: 57 | IMG_DRONE_003.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:332_ESFS_sUAS_division_launches_first_quadcopter_in_AFCENT_history_(9384787).jpg",
+      "author": "U.S. Air Force photo by Senior Airman Karalyn Degraffenreed",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_004.jpg",
+      "sample_id": 58,
+      "file_name": "IMG_DRONE_004.jpg",
+      "display_name": "sample_id: 58 | IMG_DRONE_004.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:5th_ANGLICO_-_Marines_Enhance_Capabilities_with_Skydio_X2D_SUAS_Operations_(8846012).jpg",
+      "author": "U.S. Marines IIIMIG by Cpl. Kira Ducato",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_005.jpg",
+      "sample_id": 59,
+      "file_name": "IMG_DRONE_005.jpg",
+      "display_name": "sample_id: 59 | IMG_DRONE_005.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:5th_ANGLICO_-_Marines_Enhance_Capabilities_with_Skydio_X2D_SUAS_Operations_(8846016).jpg",
+      "author": "U.S. Marines IIIMIG by Cpl. Kira Ducato",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_006.jpg",
+      "sample_id": 60,
+      "file_name": "IMG_DRONE_006.jpg",
+      "display_name": "sample_id: 60 | IMG_DRONE_006.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:5th_ANGLICO_-_Marines_Enhance_Capabilities_with_Skydio_X2D_SUAS_Operations_(8846018).jpg",
+      "author": "U.S. Marines IIIMIG by Cpl. Kira Ducato",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_007.jpg",
+      "sample_id": 61,
+      "file_name": "IMG_DRONE_007.jpg",
+      "display_name": "sample_id: 61 | IMG_DRONE_007.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_Quadcopter_02.jpg",
+      "author": "Zimin.V.G.",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_008.jpg",
+      "sample_id": 62,
+      "file_name": "IMG_DRONE_008.jpg",
+      "display_name": "sample_id: 62 | IMG_DRONE_008.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_Quadcopter_06.jpg",
+      "author": "Zimin.V.G.",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_009.jpg",
+      "sample_id": 63,
+      "file_name": "IMG_DRONE_009.jpg",
+      "display_name": "sample_id: 63 | IMG_DRONE_009.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:5th_ANGLICO_-_Marines_Enhance_Capabilities_with_Skydio_X2D_SUAS_Operations_(8846011).jpg",
+      "author": "U.S. Marines IIIMIG by Cpl. Kira Ducato",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_010.jpg",
+      "sample_id": 64,
+      "file_name": "IMG_DRONE_010.jpg",
+      "display_name": "sample_id: 64 | IMG_DRONE_010.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:5th_ANGLICO_-_Marines_Enhance_Capabilities_with_Skydio_X2D_SUAS_Operations_(8846013).jpg",
+      "author": "U.S. Marine Corps photo by Cpl. Kira Ducato",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_011.jpg",
+      "sample_id": 65,
+      "file_name": "IMG_DRONE_011.jpg",
+      "display_name": "sample_id: 65 | IMG_DRONE_011.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:5th_ANGLICO_-_Marines_Enhance_Capabilities_with_Skydio_X2D_SUAS_Operations_(8846020).jpg",
+      "author": "U.S. Marines IIIMIG by Cpl. Kira Ducato",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_012.jpg",
+      "sample_id": 66,
+      "file_name": "IMG_DRONE_012.jpg",
+      "display_name": "sample_id: 66 | IMG_DRONE_012.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bebop_Drone_flying_in_blue_sky.jpg",
+      "author": "Nicolas Halftermeyer",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_013.jpg",
+      "sample_id": 67,
+      "file_name": "IMG_DRONE_013.jpg",
+      "display_name": "sample_id: 67 | IMG_DRONE_013.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bebop_Drone_flying_over_Monaco_Bay.jpg",
+      "author": "Nicolas Halftermeyer",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_014.jpg",
+      "sample_id": 68,
+      "file_name": "IMG_DRONE_014.jpg",
+      "display_name": "sample_id: 68 | IMG_DRONE_014.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Drone_flying_on_Hoad_Hill_-_geograph.org.uk_-_6674609.jpg",
+      "author": "Stephen Craven",
+      "license": "CC BY-SA 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_015.jpg",
+      "sample_id": 69,
+      "file_name": "IMG_DRONE_015.jpg",
+      "display_name": "sample_id: 69 | IMG_DRONE_015.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Drone_in_the_Sky_During_Saber_Junction_26_(9898073).jpg",
+      "author": "U.S. Army photo by 1st Lt. Brandon Miles",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_016.jpg",
+      "sample_id": 70,
+      "file_name": "IMG_DRONE_016.jpg",
+      "display_name": "sample_id: 70 | IMG_DRONE_016.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Drone_in_the_sky,_Derry_-_Londonderry_-_geograph.org.uk_-_4391458.jpg",
+      "author": "Kenneth Allen",
+      "license": "CC BY-SA 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_017.jpg",
+      "sample_id": 71,
+      "file_name": "IMG_DRONE_017.jpg",
+      "display_name": "sample_id: 71 | IMG_DRONE_017.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Drones_test_multinational_forces_from_the_sky_at_Saber_Junction_23_(8015933).jpg",
+      "author": "U.S. Army Reserve photo by Michel Sauret",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_018.jpg",
+      "sample_id": 72,
+      "file_name": "IMG_DRONE_018.jpg",
+      "display_name": "sample_id: 72 | IMG_DRONE_018.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Farmer_Flying_Drone_(48766601332).jpg",
+      "author": "United Soybean Board",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_019.jpg",
+      "sample_id": 73,
+      "file_name": "IMG_DRONE_019.jpg",
+      "display_name": "sample_id: 73 | IMG_DRONE_019.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:DJI_Mavic_4_Pro_flying_above_sulphur_plumes_at_Mount_I%C5%8D,_Akan_Mashu_National_Park.jpg",
+      "author": "Benlisquare",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_020.jpg",
+      "sample_id": 74,
+      "file_name": "IMG_DRONE_020.jpg",
+      "display_name": "sample_id: 74 | IMG_DRONE_020.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Drone_Flying.jpg",
+      "author": "Cirrus73",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_021.jpg",
+      "sample_id": 75,
+      "file_name": "IMG_DRONE_021.jpg",
+      "display_name": "sample_id: 75 | IMG_DRONE_021.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sky_Soldiers_conduct_Drone_Training_(8976398).jpg",
+      "author": "U.S. Army photo by Staff Sgt. Randis Monroe",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_022.jpg",
+      "sample_id": 76,
+      "file_name": "IMG_DRONE_022.jpg",
+      "display_name": "sample_id: 76 | IMG_DRONE_022.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Drone_flying_and_surveying_(50272629796).jpg",
+      "author": "Oregon Department of Transportation",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_023.jpg",
+      "sample_id": 77,
+      "file_name": "IMG_DRONE_023.jpg",
+      "display_name": "sample_id: 77 | IMG_DRONE_023.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Farmer_Flying_Drone_(48750244718).jpg",
+      "author": "United Soybean Board",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_024.jpg",
+      "sample_id": 78,
+      "file_name": "IMG_DRONE_024.jpg",
+      "display_name": "sample_id: 78 | IMG_DRONE_024.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Farmer_Flying_Drone_(48766400391).jpg",
+      "author": "United Soybean Board",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_025.jpg",
+      "sample_id": 79,
+      "file_name": "IMG_DRONE_025.jpg",
+      "display_name": "sample_id: 79 | IMG_DRONE_025.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:First_person_view_drone_in_flight_(8285124).jpg",
+      "author": "Sgt. David Cordova",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_026.jpg",
+      "sample_id": 80,
+      "file_name": "IMG_DRONE_026.jpg",
+      "display_name": "sample_id: 80 | IMG_DRONE_026.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flight_Quadrotor.JPG",
+      "author": "Airbunny",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_027.jpg",
+      "sample_id": 81,
+      "file_name": "IMG_DRONE_027.jpg",
+      "display_name": "sample_id: 81 | IMG_DRONE_027.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flying_a_Drone,_Bournemouth_Beach_-_geograph.org.uk_-_5711466.jpg",
+      "author": "Des Blenkinsopp",
+      "license": "CC BY-SA 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_028.jpg",
+      "sample_id": 82,
+      "file_name": "IMG_DRONE_028.jpg",
+      "display_name": "sample_id: 82 | IMG_DRONE_028.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flying_a_drone_@_Cathedral_@_Lausanne_(36092087683).jpg",
+      "author": "Guilhem Vellut from Annecy, France",
+      "license": "CC BY 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_029.jpg",
+      "sample_id": 83,
+      "file_name": "IMG_DRONE_029.jpg",
+      "display_name": "sample_id: 83 | IMG_DRONE_029.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flying_a_drone_at_Ladhope_Recreation_Ground_-_geograph.org.uk_-_4487464.jpg",
+      "author": "Walter Baxter",
+      "license": "CC BY-SA 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_030.jpg",
+      "sample_id": 84,
+      "file_name": "IMG_DRONE_030.jpg",
+      "display_name": "sample_id: 84 | IMG_DRONE_030.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flying_a_drone_on_Newbiggin_Point_-_geograph.org.uk_-_4823342.jpg",
+      "author": "Russel Wills",
+      "license": "CC BY-SA 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_031.jpg",
+      "sample_id": 85,
+      "file_name": "IMG_DRONE_031.jpg",
+      "display_name": "sample_id: 85 | IMG_DRONE_031.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flying_a_drone_over_Ogmore_Castle_-_geograph.org.uk_-_7946443.jpg",
+      "author": "Alan Hughes",
+      "license": "CC BY-SA 2.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_032.jpg",
+      "sample_id": 86,
+      "file_name": "IMG_DRONE_032.jpg",
+      "display_name": "sample_id: 86 | IMG_DRONE_032.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flying_drone_02.jpg",
+      "author": "daSupremo",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_033.jpg",
+      "sample_id": 87,
+      "file_name": "IMG_DRONE_033.jpg",
+      "display_name": "sample_id: 87 | IMG_DRONE_033.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flying_drone_03.jpg",
+      "author": "daSupremo",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_034.jpg",
+      "sample_id": 88,
+      "file_name": "IMG_DRONE_034.jpg",
+      "display_name": "sample_id: 88 | IMG_DRONE_034.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flying_drone_04.jpg",
+      "author": "daSupremo",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_035.jpg",
+      "sample_id": 89,
+      "file_name": "IMG_DRONE_035.jpg",
+      "display_name": "sample_id: 89 | IMG_DRONE_035.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flying_drone_in_Holland.jpg",
+      "author": "Peter van der Sluijs",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_036.jpg",
+      "sample_id": 90,
+      "file_name": "IMG_DRONE_036.jpg",
+      "display_name": "sample_id: 90 | IMG_DRONE_036.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Flying_drone.jpg",
+      "author": "Ibnali1",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_037.jpg",
+      "sample_id": 91,
+      "file_name": "IMG_DRONE_037.jpg",
+      "display_name": "sample_id: 91 | IMG_DRONE_037.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:101st_Airborne_Division_(Air_Assault)_Multi-Functional_Reconnaissance_Company_Drone_Training_(9172207).jpg",
+      "author": "U.S. Army photo by Spc. Breanna Bradford",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_038.jpg",
+      "sample_id": 92,
+      "file_name": "IMG_DRONE_038.jpg",
+      "display_name": "sample_id: 92 | IMG_DRONE_038.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Drone_Buster_Training_at_Mihail_Kog%C4%83lniceanu_Air_Base,_Romania_(9289645).jpg",
+      "author": "U.S. Army photo by Maj. Leyda Kanzler",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_039.jpg",
+      "sample_id": 93,
+      "file_name": "IMG_DRONE_039.jpg",
+      "display_name": "sample_id: 93 | IMG_DRONE_039.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Drone_Buster_Training_at_Mihail_Kog%C4%83lniceanu_Air_Base,_Romania_(9289650).jpg",
+      "author": "U.S. Army photo by Maj. Leyda Kanzler",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_040.jpg",
+      "sample_id": 94,
+      "file_name": "IMG_DRONE_040.jpg",
+      "display_name": "sample_id: 94 | IMG_DRONE_040.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:LGBT_Mexico_City_Pride_2025_Drone_Flying.jpg",
+      "author": "Omar David Sandoval Sida",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_041.jpg",
+      "sample_id": 95,
+      "file_name": "IMG_DRONE_041.jpg",
+      "display_name": "sample_id: 95 | IMG_DRONE_041.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Mavic_2_Pro_flying_over_Utsunomiya.jpg",
+      "author": "Miyuki Meinaka",
+      "license": "CC BY-SA 4.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_042.jpg",
+      "sample_id": 96,
+      "file_name": "IMG_DRONE_042.jpg",
+      "display_name": "sample_id: 96 | IMG_DRONE_042.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Quadcopter_01.JPG",
+      "author": "Zeynel Cebeci",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_043.jpg",
+      "sample_id": 97,
+      "file_name": "IMG_DRONE_043.jpg",
+      "display_name": "sample_id: 97 | IMG_DRONE_043.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Drone_Buster_Training_at_Mihail_Kog%C4%83lniceanu_Air_Base,_Romania_(9289652).jpg",
+      "author": "U.S. Army photo by Maj. Leyda Kanzler",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_045.jpg",
+      "sample_id": 98,
+      "file_name": "IMG_DRONE_045.jpg",
+      "display_name": "sample_id: 98 | IMG_DRONE_045.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Quadrotor_drone_in_blue_ski_02.JPG",
+      "author": "Игоревич",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_046.jpg",
+      "sample_id": 99,
+      "file_name": "IMG_DRONE_046.jpg",
+      "display_name": "sample_id: 99 | IMG_DRONE_046.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Quadrotor_drone_in_blue_ski_03.JPG",
+      "author": "Игоревич",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_047.jpg",
+      "sample_id": 100,
+      "file_name": "IMG_DRONE_047.jpg",
+      "display_name": "sample_id: 100 | IMG_DRONE_047.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Quadrotor_drone_in_blue_ski_04.JPG",
+      "author": "Игоревич",
+      "license": "CC BY-SA 3.0"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_048.jpg",
+      "sample_id": 101,
+      "file_name": "IMG_DRONE_048.jpg",
+      "display_name": "sample_id: 101 | IMG_DRONE_048.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:USAF-Philippine_Air_Force_Conduct_Counter_Drone_Training_(9625002).jpg",
+      "author": "U.S. Air Force photo by Staff Sgt. Jordan Garner",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_049.jpg",
+      "sample_id": 102,
+      "file_name": "IMG_DRONE_049.jpg",
+      "display_name": "sample_id: 102 | IMG_DRONE_049.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:U_S_,_Indian_Army_Soldiers_conduct_drone_target_test_flights_during_Yudh_Abhyas_2026_(9944015).jpg",
+      "author": "U.S. Army photo by Maj. Ian Roth",
+      "license": "Public domain"
+    }
+  },
+  {
+    "data": {
+      "image": "/data/local-files/?d=images/drones/IMG_DRONE_050.jpg",
+      "sample_id": 103,
+      "file_name": "IMG_DRONE_050.jpg",
+      "display_name": "sample_id: 103 | IMG_DRONE_050.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/File:332_ESFS_sUAS_division_launches_first_quadcopter_in_AFCENT_history_(9384786).jpg",
+      "author": "U.S. Air Force photo by Senior Airman Karalyn Degraffenreed",
+      "license": "Public domain"
+    }
+  }
+]
