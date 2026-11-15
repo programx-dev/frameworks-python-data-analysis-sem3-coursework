@@ -10,3 +10,4 @@ __pycache__/
 Thumbs.db
 data/raw/
 .label-studio-token
+review_to_labelstudio.py
