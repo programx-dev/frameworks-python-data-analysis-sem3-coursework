@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nПлатье пришло в плохом состоянии грязное, упаковано плохо,по швам распускались нитки. Пришлось вернуть. И вопрос к валбересу- за что сняли с карточки 516 рублей?",
+      "source_review_id": 18565,
+      "source_product_id": 4851,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0081"
+    }
+  }
+]

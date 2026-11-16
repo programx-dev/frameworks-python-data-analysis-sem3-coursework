@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nРазочаровалась в товаре(\n\nДостоинства:\nХорошее качество , сочетание хорошее\n\nНедостатки:\nВерх платья шикарно смотрится , но вот низ …",
+      "source_review_id": 5090,
+      "source_product_id": 1093,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0065"
+    }
+  }
+]

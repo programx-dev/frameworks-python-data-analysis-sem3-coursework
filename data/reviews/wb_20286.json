@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nНа лето платишко просто супер 👍\n\nДостоинства:\nОчень красивое платье Прекрасный фасон и хорошо пошито\n\nНедостатки:\nНемного ошиблась с размером Закажу другое",
+      "source_review_id": 20286,
+      "source_product_id": 5232,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-15",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0136"
+    }
+  }
+]

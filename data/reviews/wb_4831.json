@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nТрикотаж тонкий, всё видно) На размер 48-50 хорошо сел 48-ой размер платья. Цвет красивый. На рост 164 -длина комфортная. Мои параметры: 93-76-100. На ощупь ткань немного шершавая.",
+      "source_review_id": 4831,
+      "source_product_id": 1018,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0024"
+    }
+  }
+]

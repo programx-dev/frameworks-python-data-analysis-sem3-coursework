@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nПлатье понравилось, отличная ткань, тонкая и очень приятная, но достаточно плотная. Модель стройнит. Брала для дома, но и на улице прекрасно будет )",
+      "source_review_id": 4728,
+      "source_product_id": 987,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-15",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0007"
+    }
+  }
+]

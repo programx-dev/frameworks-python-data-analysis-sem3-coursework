@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nОчень хорошее платье. Натуральная ткань, летом самое оно. Очень ровные швы. Красивый цвет. Оно чуть прозрачное, но максимум на темное белье, а так ничего не видно. Милая завязочка. Мне понравилось. Спасибо",
+      "source_review_id": 18613,
+      "source_product_id": 4864,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0093"
+    }
+  }
+]

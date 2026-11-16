@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Достоинства:\nПлатье очень хорошее, но при стирке в холодной воде, даже не в теплой, окрасило воду. Стирала пока только один раз. После сушки внешний вид такой же как и был. Не знаю как будет дальше.",
+      "source_review_id": 5021,
+      "source_product_id": 1071,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-15",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0055"
+    }
+  }
+]

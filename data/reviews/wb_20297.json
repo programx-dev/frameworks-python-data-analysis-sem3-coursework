@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nПлатье выкупила, но сильно смущает что заказывала по одной цене выкупила дороже. Будте внимательней при оплате. Не рекомендую по этой причине",
+      "source_review_id": 20297,
+      "source_product_id": 5234,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-15",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0138"
+    }
+  }
+]

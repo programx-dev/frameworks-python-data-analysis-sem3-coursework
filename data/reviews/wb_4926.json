@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nНадевала платье пару раз и сразу появились катышки. Цена не оправдывает качество товара. Платье красивое, но, увы, только на один сезон.\n\nДостоинства:\nВнешний вид\n\nНедостатки:\nПоявились катышки через неделю",
+      "source_review_id": 4926,
+      "source_product_id": 1043,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-15",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0039"
+    }
+  }
+]

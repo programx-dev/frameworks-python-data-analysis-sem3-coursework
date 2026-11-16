@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nОчень довольна покупкой,платье складное,нитки не торчат и село приятно к телу.После стирки усадку не дало и цвет остался ярким.Беру уже третье платье у этого продавца(разных цветов конечно)все хорошо,срасибо",
+      "source_review_id": 5058,
+      "source_product_id": 1082,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0062"
+    }
+  }
+]

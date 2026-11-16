@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nНеплохое платье ,выглядит красиво и солидно за свою цену ,но сзади молния отходит от спины и топорщится ,жене не понравилось.",
+      "source_review_id": 20287,
+      "source_product_id": 5233,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-15",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0137"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "data": {
+      "text": "Отзыв:\nК сожалению , денег своих не стоит\n\nДостоинства:\nКрасивый фасон и цвет\n\nНедостатки:\nНе очень приятное к телу, будто стекловидное. Юбка пришита криво. Маломерит на 2 размера . На рост 105см село как раз",
+      "source_review_id": 4962,
+      "source_product_id": 1055,
+      "category_label": "Одежда и обувь",
+      "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+      "access_date": "2026-11-14",
+      "license": "CC-BY-NC-SA-4.0",
+      "sample_id": "RV0042"
+    }
+  }
+]
