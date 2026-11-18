@@ -1,0 +1,14 @@
+<View>
+  <Header value="$display_name"/>
+  <Image name="photo" value="$image" zoom="true"/>
+  <RectangleLabels name="objects" toName="photo">
+    <Label value="bird" background="#52B788"/>
+    <Label value="drone" background="#FF9F43"/>
+  </RectangleLabels>
+  <Header value="Источник фотографии"/>
+  <TextArea name="source_url" toName="photo" rows="1" required="true"/>
+  <Header value="Автор"/>
+  <TextArea name="author" toName="photo" rows="1" required="true"/>
+  <Header value="Лицензия"/>
+  <TextArea name="license" toName="photo" rows="1" required="true"/>
+</View>

@@ -1,59 +1,57 @@
 # Python Data Analysis Frameworks — Coursework
 
-Курсовая работа по дисциплине
-«Фреймворки Python для анализа данных».
+Курсовая работа по дисциплине «Фреймворки Python для анализа данных».
+Семестр 3, группа 201.
 
-**Семестр:** 3
-**Группа:** 201
+- Смирнов Никита — AOD-4, изображения.
+- Белехов Егор — RuReviews, тексты.
 
-## Участники
+## Исходные датасеты и EDA
 
-- Смирнов Никита — AOD-4, изображения
-- Белехов Егор — RuReviews, тексты
+- [AOD-4](https://data.mendeley.com/datasets/cd5z895tr2/1): используются классы Bird и Drone.
+- [RuReviews](https://github.com/sismetanin/rureviews).
+- `notebooks/EDA_AOD4.ipynb` и `notebooks/EDA_RuReviews.ipynb` — анализ исходных датасетов.
 
-## Исходные датасеты
+## Структура
 
-- RuReviews: https://github.com/sismetanin/rureviews
-- AOD-4: https://data.mendeley.com/datasets/cd5z895tr2/1
+```text
+data/
+  raw/                          исходные датасеты и локальные резервные копии, вне Git
+  images/
+    birds/                      50 фотографий партии, собранной для птиц
+    drones/                     53 фотографии партии, собранной для дронов
+  reviews/                      150 исходных отзывов, отдельные JSON без ответов
+  annotations/
+    nikita/
+      image_markup_nikita.json  независимая разметка 103 изображений
+      review_markup_nikita.json независимая разметка 150 отзывов
+    egor/
+      image_markup_egor.json    независимая разметка тех же 103 изображений
+      review_markup_egor.json   независимая разметка тех же 150 отзывов
+  tasks/
+    images/                     JSON задач и XML интерфейсов изображений
+    reviews/                    JSON задач и XML интерфейса отзывов
+notebooks/                      EDA
+scripts/                        запуск и подготовка задач
+.docs/                          локальные копии документов, вне Git
+```
 
-Для AOD-4 используются только классы Bird и Drone.
+Папки birds/drones отражают партию сбора: на одном снимке могут присутствовать оба
+класса. Состав выборки определяется JSON, а не названием папки.
+Итоговые codebook хранятся в Google Docs.
 
-## EDA
+## Идентификаторы и результаты
 
-- `notebooks/EDA_RuReviews.ipynb`
-- `notebooks/EDA_AOD4.ipynb`
+Общие `data.sample_id`: изображения 1–103, отзывы RV0001–RV0150.
+Они совпадают у участников и сохраняются при экспорте. Порядок задач и внутренние
+ID Label Studio могут различаться. Рамки сопоставляются по геометрии, классы
+сравниваются отдельно. Независимые ответы, авторство и время разметки сохранены.
 
-## Ручное пополнение
+Сведения о происхождении находятся в `data` JSON разметок: источник, автор
+и лицензия изображений, `image_sha256`; для отзывов — исходные ID и метаданные
+сбора `collection_metadata`. Отдельных реестров нет. Задачи в `data/tasks`
+производны от разметок и содержат только `data`, без готовых ответов.
 
-- `data/reviews_registry.csv` — реестр отзывов
-- `data/annotations/image_sample_ids.json` — реестр общих ID изображений
-- `data/images/` — фотографии
-
-## Документы Google Docs
-
-- Журнал учёта работ: ссылка будет добавлена
-- Codebook RuReviews: ссылка будет добавлена
-- Codebook AOD-4: ссылка будет добавлена
-
-## Разметка отзывов WB / RuReviews
-
-- `data/annotations/review_markup_egor.json` — полный экспорт разметки Егора с общими sample_id: 150 уникальных отзывов, по 50 каждого класса.
-- `data/annotations/partner_reviews/review_tasks_partner.json` — те же 150 заданий без ответов и звёзд для независимой разметки Никитой.
-- `data/annotations/partner_reviews/README.md` — инструкция импорта и экспорта.
-- `data/annotations/partner_reviews/labeling_interface_partner.xml` — интерфейс выбора positive / neutral / negative.
-- `data/reviews/` — отдельные исходные JSON тех же заданий. Импортировать либо общий файл, либо отдельные, чтобы не создавать повторы.
-- `data/reviews_registry.csv` — реестр принятой партии с происхождением, лицензией и постоянными ID.
-
-Сопоставление разметок выполняется по sample_id. Ответы другого участника до завершения независимой разметки не просматриваются.
-
-## Разметка изображений AOD-4
-
-- `data/images/` — фотографии ручного пополнения, включая подпапку `drones`.
-- `data/annotations/image_markup_nikita.json` — разметка Никиты с общими числовыми sample_id.
-- `data/annotations/image_sample_ids.json` — постоянное соответствие фотографий и sample_id.
-- `data/annotations/partner_images/image_tasks_partner.json` — те же 103 задачи без рамок для независимой разметки Егором.
-- `data/annotations/partner_images/README.md` — инструкция запуска, импорта и экспорта на другом компьютере.
-- `data/annotations/partner_images/labeling_interface_partner.xml` — интерфейс разметки bird / drone с готовыми сведениями об источниках.
-
-JSON задач импортируется один раз. Дополнительно синхронизировать те же фотографии через Cloud Storage не нужно.
-Сопоставление изображений выполняется по data.sample_id. Внутренние ID задач и рамок Label Studio могут различаться.
+Запуск и проверки: `scripts/README.md`. Импорт: `data/tasks/README.md`.
+Старые проекты Label Studio сами не обновляют пути после переноса файлов;
+для восстановления используйте актуальные полные экспорты в отдельном проекте.

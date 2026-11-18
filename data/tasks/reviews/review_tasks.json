@@ -8,7 +8,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0001"
+      "sample_id": "RV0001",
+      "collection_metadata": {
+        "source_record_id": "3901",
+        "source_product_id": "850",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -20,7 +29,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0002"
+      "sample_id": "RV0002",
+      "collection_metadata": {
+        "source_record_id": "4256",
+        "source_product_id": "903",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -32,7 +50,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0003"
+      "sample_id": "RV0003",
+      "collection_metadata": {
+        "source_record_id": "4442",
+        "source_product_id": "933",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -44,7 +71,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0004"
+      "sample_id": "RV0004",
+      "collection_metadata": {
+        "source_record_id": "4486",
+        "source_product_id": "940",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -56,7 +92,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0005"
+      "sample_id": "RV0005",
+      "collection_metadata": {
+        "source_record_id": "4592",
+        "source_product_id": "961",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -68,7 +113,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0006"
+      "sample_id": "RV0006",
+      "collection_metadata": {
+        "source_record_id": "4727",
+        "source_product_id": "987",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -80,7 +134,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0007"
+      "sample_id": "RV0007",
+      "collection_metadata": {
+        "source_record_id": "4728",
+        "source_product_id": "987",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -92,7 +155,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0008"
+      "sample_id": "RV0008",
+      "collection_metadata": {
+        "source_record_id": "4736",
+        "source_product_id": "989",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -104,7 +176,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0009"
+      "sample_id": "RV0009",
+      "collection_metadata": {
+        "source_record_id": "4737",
+        "source_product_id": "989",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -116,7 +197,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0010"
+      "sample_id": "RV0010",
+      "collection_metadata": {
+        "source_record_id": "4765",
+        "source_product_id": "998",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -128,7 +218,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0011"
+      "sample_id": "RV0011",
+      "collection_metadata": {
+        "source_record_id": "4766",
+        "source_product_id": "998",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -140,7 +239,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0012"
+      "sample_id": "RV0012",
+      "collection_metadata": {
+        "source_record_id": "4770",
+        "source_product_id": "999",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -152,7 +260,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0013"
+      "sample_id": "RV0013",
+      "collection_metadata": {
+        "source_record_id": "4771",
+        "source_product_id": "999",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -164,7 +281,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0014"
+      "sample_id": "RV0014",
+      "collection_metadata": {
+        "source_record_id": "4772",
+        "source_product_id": "999",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -176,7 +302,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0015"
+      "sample_id": "RV0015",
+      "collection_metadata": {
+        "source_record_id": "4777",
+        "source_product_id": "1001",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -188,7 +323,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0016"
+      "sample_id": "RV0016",
+      "collection_metadata": {
+        "source_record_id": "4781",
+        "source_product_id": "1002",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -200,7 +344,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0017"
+      "sample_id": "RV0017",
+      "collection_metadata": {
+        "source_record_id": "4785",
+        "source_product_id": "1003",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -212,7 +365,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0018"
+      "sample_id": "RV0018",
+      "collection_metadata": {
+        "source_record_id": "4797",
+        "source_product_id": "1009",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -224,7 +386,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0019"
+      "sample_id": "RV0019",
+      "collection_metadata": {
+        "source_record_id": "4806",
+        "source_product_id": "1011",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -236,7 +407,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0020"
+      "sample_id": "RV0020",
+      "collection_metadata": {
+        "source_record_id": "4813",
+        "source_product_id": "1013",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -248,7 +428,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0021"
+      "sample_id": "RV0021",
+      "collection_metadata": {
+        "source_record_id": "4827",
+        "source_product_id": "1016",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -260,7 +449,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0022"
+      "sample_id": "RV0022",
+      "collection_metadata": {
+        "source_record_id": "4828",
+        "source_product_id": "1016",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -272,7 +470,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0023"
+      "sample_id": "RV0023",
+      "collection_metadata": {
+        "source_record_id": "4829",
+        "source_product_id": "1016",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -284,7 +491,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0024"
+      "sample_id": "RV0024",
+      "collection_metadata": {
+        "source_record_id": "4831",
+        "source_product_id": "1018",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -296,7 +512,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0025"
+      "sample_id": "RV0025",
+      "collection_metadata": {
+        "source_record_id": "4832",
+        "source_product_id": "1018",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -308,7 +533,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0026"
+      "sample_id": "RV0026",
+      "collection_metadata": {
+        "source_record_id": "4834",
+        "source_product_id": "1018",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -320,7 +554,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0027"
+      "sample_id": "RV0027",
+      "collection_metadata": {
+        "source_record_id": "4850",
+        "source_product_id": "1021",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -332,7 +575,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0028"
+      "sample_id": "RV0028",
+      "collection_metadata": {
+        "source_record_id": "4851",
+        "source_product_id": "1022",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -344,7 +596,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0029"
+      "sample_id": "RV0029",
+      "collection_metadata": {
+        "source_record_id": "4852",
+        "source_product_id": "1022",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -356,7 +617,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0030"
+      "sample_id": "RV0030",
+      "collection_metadata": {
+        "source_record_id": "4854",
+        "source_product_id": "1024",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -368,7 +638,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0031"
+      "sample_id": "RV0031",
+      "collection_metadata": {
+        "source_record_id": "4857",
+        "source_product_id": "1025",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -380,7 +659,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0032"
+      "sample_id": "RV0032",
+      "collection_metadata": {
+        "source_record_id": "4858",
+        "source_product_id": "1025",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -392,7 +680,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0033"
+      "sample_id": "RV0033",
+      "collection_metadata": {
+        "source_record_id": "4859",
+        "source_product_id": "1025",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -404,7 +701,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0034"
+      "sample_id": "RV0034",
+      "collection_metadata": {
+        "source_record_id": "4864",
+        "source_product_id": "1027",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -416,7 +722,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0035"
+      "sample_id": "RV0035",
+      "collection_metadata": {
+        "source_record_id": "4865",
+        "source_product_id": "1028",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -428,7 +743,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0036"
+      "sample_id": "RV0036",
+      "collection_metadata": {
+        "source_record_id": "4897",
+        "source_product_id": "1036",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -440,7 +764,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0037"
+      "sample_id": "RV0037",
+      "collection_metadata": {
+        "source_record_id": "4912",
+        "source_product_id": "1042",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -452,7 +785,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0038"
+      "sample_id": "RV0038",
+      "collection_metadata": {
+        "source_record_id": "4920",
+        "source_product_id": "1043",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -464,7 +806,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0039"
+      "sample_id": "RV0039",
+      "collection_metadata": {
+        "source_record_id": "4926",
+        "source_product_id": "1043",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -476,7 +827,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0040"
+      "sample_id": "RV0040",
+      "collection_metadata": {
+        "source_record_id": "4946",
+        "source_product_id": "1049",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -488,7 +848,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0041"
+      "sample_id": "RV0041",
+      "collection_metadata": {
+        "source_record_id": "4961",
+        "source_product_id": "1055",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -500,7 +869,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0042"
+      "sample_id": "RV0042",
+      "collection_metadata": {
+        "source_record_id": "4962",
+        "source_product_id": "1055",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -512,7 +890,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0043"
+      "sample_id": "RV0043",
+      "collection_metadata": {
+        "source_record_id": "4973",
+        "source_product_id": "1058",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -524,7 +911,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0044"
+      "sample_id": "RV0044",
+      "collection_metadata": {
+        "source_record_id": "4977",
+        "source_product_id": "1058",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -536,7 +932,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0045"
+      "sample_id": "RV0045",
+      "collection_metadata": {
+        "source_record_id": "4978",
+        "source_product_id": "1059",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -548,7 +953,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0046"
+      "sample_id": "RV0046",
+      "collection_metadata": {
+        "source_record_id": "4985",
+        "source_product_id": "1060",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -560,7 +974,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0047"
+      "sample_id": "RV0047",
+      "collection_metadata": {
+        "source_record_id": "4987",
+        "source_product_id": "1060",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -572,7 +995,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0048"
+      "sample_id": "RV0048",
+      "collection_metadata": {
+        "source_record_id": "4988",
+        "source_product_id": "1060",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -584,7 +1016,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0049"
+      "sample_id": "RV0049",
+      "collection_metadata": {
+        "source_record_id": "4991",
+        "source_product_id": "1061",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -596,7 +1037,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0050"
+      "sample_id": "RV0050",
+      "collection_metadata": {
+        "source_record_id": "5002",
+        "source_product_id": "1063",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -608,7 +1058,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0051"
+      "sample_id": "RV0051",
+      "collection_metadata": {
+        "source_record_id": "5006",
+        "source_product_id": "1064",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -620,7 +1079,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0052"
+      "sample_id": "RV0052",
+      "collection_metadata": {
+        "source_record_id": "5012",
+        "source_product_id": "1067",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -632,7 +1100,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0053"
+      "sample_id": "RV0053",
+      "collection_metadata": {
+        "source_record_id": "5016",
+        "source_product_id": "1069",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -644,7 +1121,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0054"
+      "sample_id": "RV0054",
+      "collection_metadata": {
+        "source_record_id": "5017",
+        "source_product_id": "1069",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -656,7 +1142,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0055"
+      "sample_id": "RV0055",
+      "collection_metadata": {
+        "source_record_id": "5021",
+        "source_product_id": "1071",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -668,7 +1163,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0056"
+      "sample_id": "RV0056",
+      "collection_metadata": {
+        "source_record_id": "5030",
+        "source_product_id": "1074",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -680,7 +1184,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0057"
+      "sample_id": "RV0057",
+      "collection_metadata": {
+        "source_record_id": "5037",
+        "source_product_id": "1076",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -692,7 +1205,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0058"
+      "sample_id": "RV0058",
+      "collection_metadata": {
+        "source_record_id": "5041",
+        "source_product_id": "1077",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -704,7 +1226,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0059"
+      "sample_id": "RV0059",
+      "collection_metadata": {
+        "source_record_id": "5045",
+        "source_product_id": "1079",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -716,7 +1247,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0060"
+      "sample_id": "RV0060",
+      "collection_metadata": {
+        "source_record_id": "5054",
+        "source_product_id": "1082",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -728,7 +1268,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0061"
+      "sample_id": "RV0061",
+      "collection_metadata": {
+        "source_record_id": "5056",
+        "source_product_id": "1082",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -740,7 +1289,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0062"
+      "sample_id": "RV0062",
+      "collection_metadata": {
+        "source_record_id": "5058",
+        "source_product_id": "1082",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -752,7 +1310,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0063"
+      "sample_id": "RV0063",
+      "collection_metadata": {
+        "source_record_id": "5073",
+        "source_product_id": "1087",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -764,7 +1331,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0064"
+      "sample_id": "RV0064",
+      "collection_metadata": {
+        "source_record_id": "5076",
+        "source_product_id": "1088",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -776,7 +1352,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0065"
+      "sample_id": "RV0065",
+      "collection_metadata": {
+        "source_record_id": "5090",
+        "source_product_id": "1093",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -788,7 +1373,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0066"
+      "sample_id": "RV0066",
+      "collection_metadata": {
+        "source_record_id": "5093",
+        "source_product_id": "1093",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -800,7 +1394,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0067"
+      "sample_id": "RV0067",
+      "collection_metadata": {
+        "source_record_id": "5097",
+        "source_product_id": "1095",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -812,7 +1415,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0068"
+      "sample_id": "RV0068",
+      "collection_metadata": {
+        "source_record_id": "5110",
+        "source_product_id": "1096",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -824,7 +1436,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0069"
+      "sample_id": "RV0069",
+      "collection_metadata": {
+        "source_record_id": "5113",
+        "source_product_id": "1096",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -836,7 +1457,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0070"
+      "sample_id": "RV0070",
+      "collection_metadata": {
+        "source_record_id": "5124",
+        "source_product_id": "1099",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -848,7 +1478,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0071"
+      "sample_id": "RV0071",
+      "collection_metadata": {
+        "source_record_id": "5133",
+        "source_product_id": "1101",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -860,7 +1499,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0072"
+      "sample_id": "RV0072",
+      "collection_metadata": {
+        "source_record_id": "5134",
+        "source_product_id": "1101",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -872,7 +1520,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0073"
+      "sample_id": "RV0073",
+      "collection_metadata": {
+        "source_record_id": "5136",
+        "source_product_id": "1102",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -884,7 +1541,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0074"
+      "sample_id": "RV0074",
+      "collection_metadata": {
+        "source_record_id": "5844",
+        "source_product_id": "1365",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -896,7 +1562,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0075"
+      "sample_id": "RV0075",
+      "collection_metadata": {
+        "source_record_id": "18237",
+        "source_product_id": "4790",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -908,7 +1583,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0076"
+      "sample_id": "RV0076",
+      "collection_metadata": {
+        "source_record_id": "18313",
+        "source_product_id": "4804",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -920,7 +1604,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0077"
+      "sample_id": "RV0077",
+      "collection_metadata": {
+        "source_record_id": "18315",
+        "source_product_id": "4804",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -932,7 +1625,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0078"
+      "sample_id": "RV0078",
+      "collection_metadata": {
+        "source_record_id": "18373",
+        "source_product_id": "4815",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -944,7 +1646,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0079"
+      "sample_id": "RV0079",
+      "collection_metadata": {
+        "source_record_id": "18558",
+        "source_product_id": "4849",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -956,7 +1667,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0080"
+      "sample_id": "RV0080",
+      "collection_metadata": {
+        "source_record_id": "18559",
+        "source_product_id": "4849",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -968,7 +1688,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0081"
+      "sample_id": "RV0081",
+      "collection_metadata": {
+        "source_record_id": "18565",
+        "source_product_id": "4851",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -980,7 +1709,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0082"
+      "sample_id": "RV0082",
+      "collection_metadata": {
+        "source_record_id": "18569",
+        "source_product_id": "4851",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -992,7 +1730,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0083"
+      "sample_id": "RV0083",
+      "collection_metadata": {
+        "source_record_id": "18570",
+        "source_product_id": "4851",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1004,7 +1751,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0084"
+      "sample_id": "RV0084",
+      "collection_metadata": {
+        "source_record_id": "18581",
+        "source_product_id": "4856",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1016,7 +1772,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0085"
+      "sample_id": "RV0085",
+      "collection_metadata": {
+        "source_record_id": "18582",
+        "source_product_id": "4856",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1028,7 +1793,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0086"
+      "sample_id": "RV0086",
+      "collection_metadata": {
+        "source_record_id": "18587",
+        "source_product_id": "4857",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1040,7 +1814,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0087"
+      "sample_id": "RV0087",
+      "collection_metadata": {
+        "source_record_id": "18595",
+        "source_product_id": "4859",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1052,7 +1835,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0088"
+      "sample_id": "RV0088",
+      "collection_metadata": {
+        "source_record_id": "18596",
+        "source_product_id": "4859",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1064,7 +1856,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0089"
+      "sample_id": "RV0089",
+      "collection_metadata": {
+        "source_record_id": "18604",
+        "source_product_id": "4861",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1076,7 +1877,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0090"
+      "sample_id": "RV0090",
+      "collection_metadata": {
+        "source_record_id": "18609",
+        "source_product_id": "4862",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1088,7 +1898,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0091"
+      "sample_id": "RV0091",
+      "collection_metadata": {
+        "source_record_id": "18610",
+        "source_product_id": "4863",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1100,7 +1919,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0092"
+      "sample_id": "RV0092",
+      "collection_metadata": {
+        "source_record_id": "18611",
+        "source_product_id": "4863",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1112,7 +1940,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0093"
+      "sample_id": "RV0093",
+      "collection_metadata": {
+        "source_record_id": "18613",
+        "source_product_id": "4864",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1124,7 +1961,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0094"
+      "sample_id": "RV0094",
+      "collection_metadata": {
+        "source_record_id": "18614",
+        "source_product_id": "4864",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1136,7 +1982,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0095"
+      "sample_id": "RV0095",
+      "collection_metadata": {
+        "source_record_id": "18615",
+        "source_product_id": "4864",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1148,7 +2003,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0096"
+      "sample_id": "RV0096",
+      "collection_metadata": {
+        "source_record_id": "18616",
+        "source_product_id": "4864",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1160,7 +2024,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0097"
+      "sample_id": "RV0097",
+      "collection_metadata": {
+        "source_record_id": "18617",
+        "source_product_id": "4864",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1172,7 +2045,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0098"
+      "sample_id": "RV0098",
+      "collection_metadata": {
+        "source_record_id": "18618",
+        "source_product_id": "4865",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1184,7 +2066,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0099"
+      "sample_id": "RV0099",
+      "collection_metadata": {
+        "source_record_id": "18619",
+        "source_product_id": "4865",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1196,7 +2087,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0100"
+      "sample_id": "RV0100",
+      "collection_metadata": {
+        "source_record_id": "18620",
+        "source_product_id": "4865",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1208,7 +2108,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0101"
+      "sample_id": "RV0101",
+      "collection_metadata": {
+        "source_record_id": "18621",
+        "source_product_id": "4866",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1220,7 +2129,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0102"
+      "sample_id": "RV0102",
+      "collection_metadata": {
+        "source_record_id": "18622",
+        "source_product_id": "4866",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1232,7 +2150,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0103"
+      "sample_id": "RV0103",
+      "collection_metadata": {
+        "source_record_id": "18624",
+        "source_product_id": "4866",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1244,7 +2171,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0104"
+      "sample_id": "RV0104",
+      "collection_metadata": {
+        "source_record_id": "18625",
+        "source_product_id": "4867",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1256,7 +2192,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0105"
+      "sample_id": "RV0105",
+      "collection_metadata": {
+        "source_record_id": "18627",
+        "source_product_id": "4868",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1268,7 +2213,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0106"
+      "sample_id": "RV0106",
+      "collection_metadata": {
+        "source_record_id": "18629",
+        "source_product_id": "4869",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1280,7 +2234,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0107"
+      "sample_id": "RV0107",
+      "collection_metadata": {
+        "source_record_id": "18630",
+        "source_product_id": "4869",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1292,7 +2255,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0108"
+      "sample_id": "RV0108",
+      "collection_metadata": {
+        "source_record_id": "18631",
+        "source_product_id": "4869",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1304,7 +2276,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0109"
+      "sample_id": "RV0109",
+      "collection_metadata": {
+        "source_record_id": "18633",
+        "source_product_id": "4869",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1316,7 +2297,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0110"
+      "sample_id": "RV0110",
+      "collection_metadata": {
+        "source_record_id": "18638",
+        "source_product_id": "4871",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1328,7 +2318,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0111"
+      "sample_id": "RV0111",
+      "collection_metadata": {
+        "source_record_id": "18641",
+        "source_product_id": "4873",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1340,7 +2339,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0112"
+      "sample_id": "RV0112",
+      "collection_metadata": {
+        "source_record_id": "18642",
+        "source_product_id": "4873",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1352,7 +2360,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0113"
+      "sample_id": "RV0113",
+      "collection_metadata": {
+        "source_record_id": "18643",
+        "source_product_id": "4873",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1364,7 +2381,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0114"
+      "sample_id": "RV0114",
+      "collection_metadata": {
+        "source_record_id": "18644",
+        "source_product_id": "4874",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1376,7 +2402,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0115"
+      "sample_id": "RV0115",
+      "collection_metadata": {
+        "source_record_id": "18645",
+        "source_product_id": "4874",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1388,7 +2423,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0116"
+      "sample_id": "RV0116",
+      "collection_metadata": {
+        "source_record_id": "18649",
+        "source_product_id": "4875",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1400,7 +2444,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-14",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0117"
+      "sample_id": "RV0117",
+      "collection_metadata": {
+        "source_record_id": "18650",
+        "source_product_id": "4875",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-14",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1412,7 +2465,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0118"
+      "sample_id": "RV0118",
+      "collection_metadata": {
+        "source_record_id": "18657",
+        "source_product_id": "4876",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1424,7 +2486,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0119"
+      "sample_id": "RV0119",
+      "collection_metadata": {
+        "source_record_id": "18678",
+        "source_product_id": "4879",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1436,7 +2507,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0120"
+      "sample_id": "RV0120",
+      "collection_metadata": {
+        "source_record_id": "18680",
+        "source_product_id": "4880",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1448,7 +2528,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0121"
+      "sample_id": "RV0121",
+      "collection_metadata": {
+        "source_record_id": "18701",
+        "source_product_id": "4883",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1460,7 +2549,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0122"
+      "sample_id": "RV0122",
+      "collection_metadata": {
+        "source_record_id": "18703",
+        "source_product_id": "4883",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1472,7 +2570,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0123"
+      "sample_id": "RV0123",
+      "collection_metadata": {
+        "source_record_id": "18712",
+        "source_product_id": "4884",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1484,7 +2591,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0124"
+      "sample_id": "RV0124",
+      "collection_metadata": {
+        "source_record_id": "18982",
+        "source_product_id": "4942",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1496,7 +2612,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0125"
+      "sample_id": "RV0125",
+      "collection_metadata": {
+        "source_record_id": "19005",
+        "source_product_id": "4945",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1508,7 +2633,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0126"
+      "sample_id": "RV0126",
+      "collection_metadata": {
+        "source_record_id": "19066",
+        "source_product_id": "4952",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1520,7 +2654,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0127"
+      "sample_id": "RV0127",
+      "collection_metadata": {
+        "source_record_id": "19084",
+        "source_product_id": "4957",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1532,7 +2675,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0128"
+      "sample_id": "RV0128",
+      "collection_metadata": {
+        "source_record_id": "19136",
+        "source_product_id": "4967",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1544,7 +2696,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0129"
+      "sample_id": "RV0129",
+      "collection_metadata": {
+        "source_record_id": "19204",
+        "source_product_id": "4995",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1556,7 +2717,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0130"
+      "sample_id": "RV0130",
+      "collection_metadata": {
+        "source_record_id": "19207",
+        "source_product_id": "4995",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1568,7 +2738,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0131"
+      "sample_id": "RV0131",
+      "collection_metadata": {
+        "source_record_id": "19221",
+        "source_product_id": "4997",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1580,7 +2759,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0132"
+      "sample_id": "RV0132",
+      "collection_metadata": {
+        "source_record_id": "19298",
+        "source_product_id": "5013",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1592,7 +2780,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0133"
+      "sample_id": "RV0133",
+      "collection_metadata": {
+        "source_record_id": "19316",
+        "source_product_id": "5019",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1604,7 +2801,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0134"
+      "sample_id": "RV0134",
+      "collection_metadata": {
+        "source_record_id": "20282",
+        "source_product_id": "5231",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1616,7 +2822,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0135"
+      "sample_id": "RV0135",
+      "collection_metadata": {
+        "source_record_id": "20283",
+        "source_product_id": "5232",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1628,7 +2843,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0136"
+      "sample_id": "RV0136",
+      "collection_metadata": {
+        "source_record_id": "20286",
+        "source_product_id": "5232",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1640,7 +2864,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0137"
+      "sample_id": "RV0137",
+      "collection_metadata": {
+        "source_record_id": "20287",
+        "source_product_id": "5233",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1652,7 +2885,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0138"
+      "sample_id": "RV0138",
+      "collection_metadata": {
+        "source_record_id": "20297",
+        "source_product_id": "5234",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1664,7 +2906,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0139"
+      "sample_id": "RV0139",
+      "collection_metadata": {
+        "source_record_id": "20299",
+        "source_product_id": "5234",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1676,7 +2927,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0140"
+      "sample_id": "RV0140",
+      "collection_metadata": {
+        "source_record_id": "20305",
+        "source_product_id": "5237",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1688,7 +2948,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0141"
+      "sample_id": "RV0141",
+      "collection_metadata": {
+        "source_record_id": "20328",
+        "source_product_id": "5240",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1700,7 +2969,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0142"
+      "sample_id": "RV0142",
+      "collection_metadata": {
+        "source_record_id": "22453",
+        "source_product_id": "5818",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1712,7 +2990,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0143"
+      "sample_id": "RV0143",
+      "collection_metadata": {
+        "source_record_id": "22464",
+        "source_product_id": "5820",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1724,7 +3011,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0144"
+      "sample_id": "RV0144",
+      "collection_metadata": {
+        "source_record_id": "22477",
+        "source_product_id": "5825",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1736,7 +3032,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0145"
+      "sample_id": "RV0145",
+      "collection_metadata": {
+        "source_record_id": "22480",
+        "source_product_id": "5827",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1748,7 +3053,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0146"
+      "sample_id": "RV0146",
+      "collection_metadata": {
+        "source_record_id": "22486",
+        "source_product_id": "5827",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1760,7 +3074,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0147"
+      "sample_id": "RV0147",
+      "collection_metadata": {
+        "source_record_id": "22492",
+        "source_product_id": "5829",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1772,7 +3095,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0148"
+      "sample_id": "RV0148",
+      "collection_metadata": {
+        "source_record_id": "22504",
+        "source_product_id": "5833",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1784,7 +3116,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0149"
+      "sample_id": "RV0149",
+      "collection_metadata": {
+        "source_record_id": "22512",
+        "source_product_id": "5834",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   },
   {
@@ -1796,7 +3137,16 @@
       "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
       "access_date": "2026-11-15",
       "license": "CC-BY-NC-SA-4.0",
-      "sample_id": "RV0150"
+      "sample_id": "RV0150",
+      "collection_metadata": {
+        "source_record_id": "22623",
+        "source_product_id": "5869",
+        "source_url": "https://huggingface.co/datasets/Hplss/wb-review-dataset",
+        "category": "Одежда и обувь",
+        "license": "CC-BY-NC-SA-4.0",
+        "access_date": "2026-11-15",
+        "status": "accepted"
+      }
     }
   }
 ]

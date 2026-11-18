@@ -8,11 +8,8 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
-.docs
+/.docs/
 /data/raw/
-/data/annotations/aod4_partner_package.zip
-/data/annotations/aod4_partner_package.zip.tmp
-data/raw/
 .label-studio-token
 review_to_labelstudio.py
 *~
